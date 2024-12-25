@@ -32,7 +32,7 @@
 
    1. Clone the repository:
       ```bash
-      git clone https://github.com/yourusername/PersianTableScraper.git
+      git clone https://github.com/mrnikx/IndustryTableScraper
       ```
 
    2. Navigate to the project directory:
